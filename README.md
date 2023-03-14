@@ -1,6 +1,10 @@
 
 # BG-NBD- Gamma-Gamma and CLTV Prediction
 
+![CRM](https://user-images.githubusercontent.com/111612847/224891387-81aa0bab-0a1f-438a-b0f5-702719deeea1.png)
+
+
+
 1. Introduction about Customer Lifetime Value
 2. Business Problem
 3. Dataset Story and Variables
